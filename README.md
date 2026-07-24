@@ -1,14 +1,14 @@
 # UWr-II
-Przedmioty realizowane przeze mnie podczas studiów na UWr
+Courses taken during my Computer Science studies at the University of Wrocław
 
-## Semestr 1
+## Semester 1
 * Analiza matematyczna
 * Logika dla informatyków
 * Wstęp do informatyki
 * Wstęp do programowania w C
 * Podstawowy warsztat informatyka
 
-## Semestr 2
+## Semester 2
 * Algebra
 * Algorytmika praktyczna
 * Architektury systemów komputerowych
