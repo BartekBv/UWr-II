@@ -12,5 +12,5 @@ Courses taken during my Computer Science studies at the University of Wrocław
 * Algebra (*Algebra*)
 * Algorytmika praktyczna (*Practical Algorithms*)
 * Architektury systemów komputerowych (*Computer Architecture for Programmers*)
-* Programowanie obiektowe (*Object-oriented programming*)
+* Programowanie obiektowe (*Object-oriented Programming*)
 * Metody programowania (*Programming Methodology*)
